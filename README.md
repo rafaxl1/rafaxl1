@@ -12,7 +12,7 @@ My toolbox includes a range of modern technologies that allow me to build robust
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn/ui
 - **Backend:** Node.js, Next.js (API Routes)
-- **Database & ORM:** PostgreSQL, MySQL, Prisma, PlanetScale
+- **Database & ORM:** PostgreSQL, MySQL, Prisma, PlanetScale, Firebase, Supabase, other..
 - **Authentication & Payments:** Clerk, Stripe
 - **Real-time & AI:** Socket.io, Replicate, OpenAI
 - **Deployment & Hosting:** Vercel, Firebase
